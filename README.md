@@ -1,4 +1,4 @@
-###**** team4_models directory has both notebooks as we turned in for end of phase 3.
+### team4_models directory has both notebooks as we turned in for end of phase 3.
 
 
 # Phase 4
