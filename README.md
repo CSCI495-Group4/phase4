@@ -1,4 +1,7 @@
-# Phase 3 Project Workflow Guide
+###**** team4_models directory has both notebooks as we turned in for end of phase 3.
+
+
+# Phase 4
 
 This guide explains how to **access, download, edit, and upload** changes to this repository.  
 It covers cloning the repo, setting up SSH keys, working with Jupyter Notebooks (`.ipynb`) and Python scripts (`.py`), and collaborating through Git branching and Pull Requests (PRs).
