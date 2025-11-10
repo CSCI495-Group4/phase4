@@ -1,0 +1,24 @@
+# PyTorch and related packages
+torch
+torchvision
+
+# Computer vision models
+timm
+
+# Data processing
+pandas
+numpy
+scikit-learn
+ipywidgets
+
+# HuggingFace libraries
+transformers
+datasets
+
+# Progress bars
+tqdm
+
+# Kaggle API
+kaggle
+kagglehub
+
