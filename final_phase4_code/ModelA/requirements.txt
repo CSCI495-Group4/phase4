@@ -1,0 +1,5 @@
+torch
+torchvision
+datasets
+scikit-learn
+timm
